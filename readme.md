@@ -2,16 +2,16 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Igor S. Menezes</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Sênior Web Developer & Instructor focused on helping people start programming 
+- 🔥 Junior Web Developer focused on stack React-Native
 
-- 🔭 I’m currently working at [Rocketseat](https://github.com/Rocketseat)
+- 🔭 I’m currently working at [Myp7](https://www.myp7.com.br)
 
-- 👨‍💻 All of my projects are available at [maykbrito.dev](https://maykbrito.dev)
-
-- ▶️ I regularly post videos on [youtube.com/maykbrito](https://youtube.com/maykbrito)
-
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
-
-- ⚡ Fun fact **Oneye 😜**
+- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS, ReactJS, React-Native**
 
 <br><br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ismv00&show_icons=true&theme=radical)
+
+<br><br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismv00)](https://github.com/anuraghazra/github-readme-stats)
